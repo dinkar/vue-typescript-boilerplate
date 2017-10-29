@@ -1,6 +1,6 @@
 {
   "name": "vue-typescript-boilerplate",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "license": "MIT",
   "description": "VueJs boilerplate using Typescript, Vuex and Vue Router",
   "author": "Bart van den Ende <info@bartvandenende.nl>",
